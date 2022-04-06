@@ -1,0 +1,25 @@
+<style>
+
+*{margin: 0;
+padding: 0;	}
+
+}
+
+a:hover{background: blueviolet;}
+
+.imge img{
+	height: 200px;
+	width: 100%;
+	
+}
+.cao{
+	height: 100px;
+font-family: monospace;
+text-align: center;
+font-size: 30px;
+}
+
+
+
+
+</style>
